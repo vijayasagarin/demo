@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DemoController {
 
-    @GetMapping("/demos")
+    @GetMapping("/demossssss")
     public String getDemoDetails() {
         return "This is a demo";
     }
